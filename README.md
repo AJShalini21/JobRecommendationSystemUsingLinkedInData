@@ -13,7 +13,7 @@ A machine learning–powered system that recommends jobs based on user-input ski
 
 The system tackles the problem of information overload in job search by recommending roles based on skill matching.
 
-### 🔧 Key Phases
+### Key Phases
 - **Phase 1**: Data cleaning & EDA (handled missing data, merged datasets, visual insights)
 - **Phase 2**: Clustering (KMeans) & model training (SVM, Logistic Regression, etc.)
 - **Phase 3**: Deployed via **Flask Web App**
@@ -30,12 +30,12 @@ The system tackles the problem of information overload in job search by recommen
 
 ## Web App (Flask)
 
-### 🔹 Features
+### Features
 - Input: User enters skills (e.g., `nursing`, `coding`)
 - Output: Top 5 job matches with title, location, and LinkedIn URL
 - Built with Flask + HTML/CSS
 
-### ▶️ How to Run
+### How to Run
 
 ```bash
 # Setup
